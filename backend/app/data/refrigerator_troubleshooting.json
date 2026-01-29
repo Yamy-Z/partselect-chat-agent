@@ -1,0 +1,1198 @@
+[
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "noisy",
+    "symptom_display": "Noisy",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Noisy/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Noisy' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 1875,
+      "step_by_step_videos_count": 33
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Condenser Fan Motor",
+        "why_it_causes_symptom": "Condenser Fan Motor issues can contribute to the 'Noisy' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the condenser fan motor for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Condenser Fan Motor",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Noisy/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Evaporator Fan Motor",
+        "why_it_causes_symptom": "Evaporator Fan Motor issues can contribute to the 'Noisy' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the evaporator fan motor for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Evaporator Fan Motor",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Noisy/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Evaporator Fan Motor Grommet",
+        "why_it_causes_symptom": "Evaporator Fan Motor Grommet issues can contribute to the 'Noisy' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the evaporator fan motor grommet for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Evaporator Fan Motor Grommet",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Noisy/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "leaking",
+    "symptom_display": "Leaking",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Leaking/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Leaking' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 3265,
+      "step_by_step_videos_count": 18
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Door Gaskets Or Seals",
+        "why_it_causes_symptom": "Door Gaskets Or Seals issues can contribute to the 'Leaking' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door gaskets or seals for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Gaskets Or Seals",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Leaking/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Water Inlet Valve",
+        "why_it_causes_symptom": "Water Inlet Valve issues can contribute to the 'Leaking' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the water inlet valve for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Water Inlet Valve",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Leaking/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Ice Maker Assembly",
+        "why_it_causes_symptom": "Ice Maker Assembly issues can contribute to the 'Leaking' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the ice maker assembly for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Ice Maker Assembly",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Leaking/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "will-not-start",
+    "symptom_display": "Will not start",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Will not start' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 365,
+      "step_by_step_videos_count": 8
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Overload Or Relay-Start Capacitor",
+        "why_it_causes_symptom": "Overload Or Relay-Start Capacitor issues can contribute to the 'Will not start' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the overload or relay-start capacitor for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Overload Or Relay-Start Capacitor",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Cold Control & Temperature Control",
+        "why_it_causes_symptom": "Cold Control & Temperature Control issues can contribute to the 'Will not start' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the cold control & temperature control for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Cold Control & Temperature Control",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Electronic Control Board",
+        "why_it_causes_symptom": "Electronic Control Board issues can contribute to the 'Will not start' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the electronic control board for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Electronic Control Board",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "not-making-ice",
+    "symptom_display": "Ice maker not making ice",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Ice maker not making ice' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 3458,
+      "step_by_step_videos_count": 23
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Water Fill Tubes",
+        "why_it_causes_symptom": "Water Fill Tubes issues can contribute to the 'Ice maker not making ice' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the water fill tubes for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Water Fill Tubes",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Water Inlet Valve",
+        "why_it_causes_symptom": "Water Inlet Valve issues can contribute to the 'Ice maker not making ice' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the water inlet valve for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Water Inlet Valve",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Ice & Water Filter",
+        "why_it_causes_symptom": "Ice & Water Filter issues can contribute to the 'Ice maker not making ice' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the ice & water filter for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Ice & Water Filter",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Ice Maker Assembly & Replacement Ice Maker",
+        "why_it_causes_symptom": "Ice Maker Assembly & Replacement Ice Maker issues can contribute to the 'Ice maker not making ice' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the ice maker assembly & replacement ice maker for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Ice Maker Assembly & Replacement Ice Maker",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "refrigerator-too-warm",
+    "symptom_display": "Refrigerator too warm",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Warm/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Refrigerator too warm' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "REALLY EASY",
+      "repair_stories_count": 16,
+      "step_by_step_videos_count": 0
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Air Inlet Damper Or Baffle",
+        "why_it_causes_symptom": "Air Inlet Damper Or Baffle issues can contribute to the 'Refrigerator too warm' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the air inlet damper or baffle for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Air Inlet Damper Or Baffle",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Warm/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "not-dispensing-water",
+    "symptom_display": "Not dispensing water",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Not dispensing water' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 1940,
+      "step_by_step_videos_count": 29
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Ice & Water Filter",
+        "why_it_causes_symptom": "Ice & Water Filter issues can contribute to the 'Not dispensing water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the ice & water filter for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Ice & Water Filter",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Water Inlet Valve",
+        "why_it_causes_symptom": "Water Inlet Valve issues can contribute to the 'Not dispensing water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the water inlet valve for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Water Inlet Valve",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Water Dispenser Actuator",
+        "why_it_causes_symptom": "Water Dispenser Actuator issues can contribute to the 'Not dispensing water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the water dispenser actuator for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Water Dispenser Actuator",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Micro Switch",
+        "why_it_causes_symptom": "Micro Switch issues can contribute to the 'Not dispensing water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the micro switch for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Micro Switch",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/"
+        }
+      },
+      {
+        "path_rank": 5,
+        "component": "Dispenser Control Board",
+        "why_it_causes_symptom": "Dispenser Control Board issues can contribute to the 'Not dispensing water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the dispenser control board for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Dispenser Control Board",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "refrigerator-freezer-too-warm",
+    "symptom_display": "Refrigerator and freezer too warm",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Refrigerator and freezer too warm' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 0,
+      "step_by_step_videos_count": 0
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Cold Control Or Temperature Control",
+        "why_it_causes_symptom": "Cold Control Or Temperature Control issues can contribute to the 'Refrigerator and freezer too warm' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the cold control or temperature control for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Cold Control Or Temperature Control",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Evaporator Fan Motor",
+        "why_it_causes_symptom": "Evaporator Fan Motor issues can contribute to the 'Refrigerator and freezer too warm' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the evaporator fan motor for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Evaporator Fan Motor",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Electronic Control Board",
+        "why_it_causes_symptom": "Electronic Control Board issues can contribute to the 'Refrigerator and freezer too warm' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the electronic control board for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Electronic Control Board",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Temperature Sensor Or Thermistor",
+        "why_it_causes_symptom": "Temperature Sensor Or Thermistor issues can contribute to the 'Refrigerator and freezer too warm' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the temperature sensor or thermistor for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Temperature Sensor Or Thermistor",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/"
+        }
+      },
+      {
+        "path_rank": 5,
+        "component": "Defrost Timer",
+        "why_it_causes_symptom": "Defrost Timer issues can contribute to the 'Refrigerator and freezer too warm' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the defrost timer for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Defrost Timer",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "door-sweating",
+    "symptom_display": "Door sweating",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Door-Sweating/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Door sweating' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 769,
+      "step_by_step_videos_count": 11
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Fresh Food & Freezer Door Gasket",
+        "why_it_causes_symptom": "Fresh Food & Freezer Door Gasket issues can contribute to the 'Door sweating' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the fresh food & freezer door gasket for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Fresh Food & Freezer Door Gasket",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Door-Sweating/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Dispenser Door Assembly or Flapper & Ice Door Kit",
+        "why_it_causes_symptom": "Dispenser Door Assembly or Flapper & Ice Door Kit issues can contribute to the 'Door sweating' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the dispenser door assembly or flapper & ice door kit for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Dispenser Door Assembly or Flapper & Ice Door Kit",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Door-Sweating/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Door Closure Cam Kit",
+        "why_it_causes_symptom": "Door Closure Cam Kit issues can contribute to the 'Door sweating' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door closure cam kit for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Closure Cam Kit",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Door-Sweating/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Door Hinge & Bearing",
+        "why_it_causes_symptom": "Door Hinge & Bearing issues can contribute to the 'Door sweating' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door hinge & bearing for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Hinge & Bearing",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Door-Sweating/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "light-not-working",
+    "symptom_display": "Light not working",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Light not working' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "REALLY EASY",
+      "repair_stories_count": 582,
+      "step_by_step_videos_count": 23
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Light Bulb Or Lamp",
+        "why_it_causes_symptom": "Light Bulb Or Lamp issues can contribute to the 'Light not working' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the light bulb or lamp for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Light Bulb Or Lamp",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Light Sockets",
+        "why_it_causes_symptom": "Light Sockets issues can contribute to the 'Light not working' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the light sockets for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Light Sockets",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Door Light Switch",
+        "why_it_causes_symptom": "Door Light Switch issues can contribute to the 'Light not working' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door light switch for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Light Switch",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Light Bulb & Ice Dispenser",
+        "why_it_causes_symptom": "Light Bulb & Ice Dispenser issues can contribute to the 'Light not working' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the light bulb & ice dispenser for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Light Bulb & Ice Dispenser",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "refrigerator",
+    "symptom_slug": "freezer-too-cold",
+    "symptom_display": "Freezer too cold",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Refrigerator/Freezer-Too-Cold/",
+      "category_url": "https://www.partselect.com/Repair/Refrigerator/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Freezer too cold' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "REALLY EASY",
+      "repair_stories_count": 44,
+      "step_by_step_videos_count": 1
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Air Damper Or Freezer Control",
+        "why_it_causes_symptom": "Air Damper Or Freezer Control issues can contribute to the 'Freezer too cold' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the air damper or freezer control for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Air Damper Or Freezer Control",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Freezer-Too-Cold/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Temperature Sensor Or Thermistor",
+        "why_it_causes_symptom": "Temperature Sensor Or Thermistor issues can contribute to the 'Freezer too cold' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the temperature sensor or thermistor for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Temperature Sensor Or Thermistor",
+          "category_url": "https://www.partselect.com/Repair/Refrigerator/Freezer-Too-Cold/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  }
+]

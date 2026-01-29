@@ -1,0 +1,1259 @@
+[
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "noisy",
+    "symptom_display": "Noisy",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Noisy/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Noisy' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "REALLY EASY",
+      "repair_stories_count": 989,
+      "step_by_step_videos_count": 10
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Pump",
+        "why_it_causes_symptom": "Pump issues can contribute to the 'Noisy' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the pump for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Pump",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Noisy/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Wash Arm Bearing Ring & Spray Arm Seal",
+        "why_it_causes_symptom": "Wash Arm Bearing Ring & Spray Arm Seal issues can contribute to the 'Noisy' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the wash arm bearing ring & spray arm seal for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Wash Arm Bearing Ring & Spray Arm Seal",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Noisy/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Spray Arms",
+        "why_it_causes_symptom": "Spray Arms issues can contribute to the 'Noisy' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the spray arms for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Spray Arms",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Noisy/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "leaking",
+    "symptom_display": "Leaking",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Leaking/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Leaking' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 1324,
+      "step_by_step_videos_count": 6
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Pump",
+        "why_it_causes_symptom": "Pump issues can contribute to the 'Leaking' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the pump for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Pump",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Leaking/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Door Gasket",
+        "why_it_causes_symptom": "Door Gasket issues can contribute to the 'Leaking' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door gasket for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Gasket",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Leaking/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Water Inlet Valve",
+        "why_it_causes_symptom": "Water Inlet Valve issues can contribute to the 'Leaking' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the water inlet valve for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Water Inlet Valve",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Leaking/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Dispensers & Grommets",
+        "why_it_causes_symptom": "Dispensers & Grommets issues can contribute to the 'Leaking' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the dispensers & grommets for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Dispensers & Grommets",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Leaking/"
+        }
+      },
+      {
+        "path_rank": 5,
+        "component": "Spray Arm",
+        "why_it_causes_symptom": "Spray Arm issues can contribute to the 'Leaking' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the spray arm for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Spray Arm",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Leaking/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "will-not-start",
+    "symptom_display": "Will not start",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Will not start' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 1817,
+      "step_by_step_videos_count": 7
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Door Latch Or Door Latch Switch",
+        "why_it_causes_symptom": "Door Latch Or Door Latch Switch issues can contribute to the 'Will not start' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door latch or door latch switch for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Latch Or Door Latch Switch",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Timer Or Electronic Control",
+        "why_it_causes_symptom": "Timer Or Electronic Control issues can contribute to the 'Will not start' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the timer or electronic control for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Timer Or Electronic Control",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Selector Switch",
+        "why_it_causes_symptom": "Selector Switch issues can contribute to the 'Will not start' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the selector switch for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Selector Switch",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Motor Start Relay",
+        "why_it_causes_symptom": "Motor Start Relay issues can contribute to the 'Will not start' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the motor start relay for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Motor Start Relay",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/"
+        }
+      },
+      {
+        "path_rank": 5,
+        "component": "Thermal Fuse",
+        "why_it_causes_symptom": "Thermal Fuse issues can contribute to the 'Will not start' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the thermal fuse for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Thermal Fuse",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "door-latch-failure",
+    "symptom_display": "Door latch failure",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Door-Latch-Failure/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Door latch failure' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "REALLY EASY",
+      "repair_stories_count": 1239,
+      "step_by_step_videos_count": 4
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Door Latch Assembly",
+        "why_it_causes_symptom": "Door Latch Assembly issues can contribute to the 'Door latch failure' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door latch assembly for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Latch Assembly",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Door-Latch-Failure/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "not-cleaning-properly",
+    "symptom_display": "Not cleaning dishes properly",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Not cleaning dishes properly' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 2543,
+      "step_by_step_videos_count": 38
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Upper Discharge Housing Gasket",
+        "why_it_causes_symptom": "Upper Discharge Housing Gasket issues can contribute to the 'Not cleaning dishes properly' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the upper discharge housing gasket for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Upper Discharge Housing Gasket",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Spray Arm",
+        "why_it_causes_symptom": "Spray Arm issues can contribute to the 'Not cleaning dishes properly' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the spray arm for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Spray Arm",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Docking Station",
+        "why_it_causes_symptom": "Docking Station issues can contribute to the 'Not cleaning dishes properly' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the docking station for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Docking Station",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Chopper",
+        "why_it_causes_symptom": "Chopper issues can contribute to the 'Not cleaning dishes properly' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the chopper for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Chopper",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/"
+        }
+      },
+      {
+        "path_rank": 5,
+        "component": "Water Inlet Valve",
+        "why_it_causes_symptom": "Water Inlet Valve issues can contribute to the 'Not cleaning dishes properly' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the water inlet valve for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Water Inlet Valve",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "not-draining",
+    "symptom_display": "Not draining",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Not-Draining/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Not draining' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 564,
+      "step_by_step_videos_count": 7
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Piston & Nut Assembly",
+        "why_it_causes_symptom": "Piston & Nut Assembly issues can contribute to the 'Not draining' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the piston & nut assembly for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Piston & Nut Assembly",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Draining/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Drain Pump & Motor",
+        "why_it_causes_symptom": "Drain Pump & Motor issues can contribute to the 'Not draining' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the drain pump & motor for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Drain Pump & Motor",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Draining/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Check Valve Flapper",
+        "why_it_causes_symptom": "Check Valve Flapper issues can contribute to the 'Not draining' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the check valve flapper for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Check Valve Flapper",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Draining/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Belt",
+        "why_it_causes_symptom": "Belt issues can contribute to the 'Not draining' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the belt for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Belt",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Draining/"
+        }
+      },
+      {
+        "path_rank": 5,
+        "component": "Timer",
+        "why_it_causes_symptom": "Timer issues can contribute to the 'Not draining' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the timer for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Timer",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Draining/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "will-not-fill-with-water",
+    "symptom_display": "Will not fill with water",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Will not fill with water' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 368,
+      "step_by_step_videos_count": 3
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Water Inlet Valve",
+        "why_it_causes_symptom": "Water Inlet Valve issues can contribute to the 'Will not fill with water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the water inlet valve for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Water Inlet Valve",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Float",
+        "why_it_causes_symptom": "Float issues can contribute to the 'Will not fill with water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the float for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Float",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Float Switch",
+        "why_it_causes_symptom": "Float Switch issues can contribute to the 'Will not fill with water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the float switch for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Float Switch",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Door Switch",
+        "why_it_causes_symptom": "Door Switch issues can contribute to the 'Will not fill with water' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door switch for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Switch",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "will-not-dispense-detergent",
+    "symptom_display": "Will not dispense detergent",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Will not dispense detergent' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 703,
+      "step_by_step_videos_count": 6
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Detergent & Rinse Aid Dispensers",
+        "why_it_causes_symptom": "Detergent & Rinse Aid Dispensers issues can contribute to the 'Will not dispense detergent' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the detergent & rinse aid dispensers for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Detergent & Rinse Aid Dispensers",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "Rinse Aid Cap",
+        "why_it_causes_symptom": "Rinse Aid Cap issues can contribute to the 'Will not dispense detergent' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the rinse aid cap for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Rinse Aid Cap",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Door Spring & Hinge Pin",
+        "why_it_causes_symptom": "Door Spring & Hinge Pin issues can contribute to the 'Will not dispense detergent' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the door spring & hinge pin for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Door Spring & Hinge Pin",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/"
+        }
+      },
+      {
+        "path_rank": 4,
+        "component": "Wax Motor",
+        "why_it_causes_symptom": "Wax Motor issues can contribute to the 'Will not dispense detergent' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the wax motor for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Wax Motor",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/"
+        }
+      },
+      {
+        "path_rank": 5,
+        "component": "Bi-Metal Release",
+        "why_it_causes_symptom": "Bi-Metal Release issues can contribute to the 'Will not dispense detergent' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the bi-metal release for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Bi-Metal Release",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "not-drying-properly",
+    "symptom_display": "Not drying dishes properly",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Guided troubleshooting for 'Not drying dishes properly' based on PartSelect’s symptom repair flow (symptom → likely components → inspection/testing).",
+    "about_repair": {
+      "difficulty": "EASY",
+      "repair_stories_count": 198,
+      "step_by_step_videos_count": 4
+    },
+    "repair_paths": [
+      {
+        "path_rank": 1,
+        "component": "Heating Element",
+        "why_it_causes_symptom": "Heating Element issues can contribute to the 'Not drying dishes properly' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the heating element for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Heating Element",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/"
+        }
+      },
+      {
+        "path_rank": 2,
+        "component": "High Limit Thermostat",
+        "why_it_causes_symptom": "High Limit Thermostat issues can contribute to the 'Not drying dishes properly' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the high limit thermostat for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to High Limit Thermostat",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/"
+        }
+      },
+      {
+        "path_rank": 3,
+        "component": "Rinse Aid Dispenser",
+        "why_it_causes_symptom": "Rinse Aid Dispenser issues can contribute to the 'Not drying dishes properly' symptom; inspect for wear, blockage, damage, or electrical failure depending on the component.",
+        "diagnostic": {
+          "safety_notes": [
+            "Disconnect power before servicing.",
+            "Turn off water supply if you will disconnect water lines."
+          ],
+          "steps": [
+            {
+              "step": 1,
+              "detail": "Locate and visually inspect the rinse aid dispenser for obvious damage, looseness, burning, cracks, or debris."
+            },
+            {
+              "step": 2,
+              "detail": "If applicable, verify connectors and hoses are seated and not leaking or kinked."
+            },
+            {
+              "step": 3,
+              "detail": "If the component is electrical, test for continuity per the service procedure; replace if out of spec."
+            }
+          ]
+        },
+        "replacement": {
+          "category_label": "Parts related to Rinse Aid Dispenser",
+          "category_url": "https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/"
+        }
+      }
+    ],
+    "clarifying_questions": [],
+    "tags": []
+  },
+  {
+    "appliance_type": "dishwasher",
+    "symptom_slug": "common-symptoms-index",
+    "symptom_display": "Common symptoms (index)",
+    "source": {
+      "provider": "partselect",
+      "symptom_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "category_url": "https://www.partselect.com/Repair/Dishwasher/",
+      "last_verified": "2026-01-29"
+    },
+    "summary": "Index entry listing the most common dishwasher symptoms and linking to the detailed repair pages.",
+    "about_repair": {
+      "difficulty": null,
+      "repair_stories_count": null,
+      "step_by_step_videos_count": null
+    },
+    "repair_paths": [],
+    "clarifying_questions": [
+      "Which symptom best matches what you’re seeing? (e.g., noisy, leaking, not draining, won’t start)"
+    ],
+    "tags": [
+      "index"
+    ]
+  }
+]
